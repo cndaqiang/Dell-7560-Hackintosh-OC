@@ -1,3 +1,8 @@
+# cndaqiang 安装备注
+- **全新安装Mac需使用 1ef8665 以前的 Commit**
+- **因为我之前网卡换成了BCM94350ZAE 1820A,安装时发现直接可以驱动**
+
+
 # Dell-7560-Hackintosh-OC
 
 EFI使用有问题？请参考这篇文档[黑苹果安装指北手册](https://howiehye.top/post/9ff9620/)
