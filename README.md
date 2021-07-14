@@ -1,5 +1,5 @@
 # cndaqiang 安装备注
-- **全新安装Mac需使用 1ef8665 以前的 Commit**
+- **全新安装Mac需使用 1ef8665 以前的 Commit,最终我采用[e72aaac](https://github.com/cndaqiang/Dell-7560-Hackintosh-OC/tree/e72aaacf7ffa648e490d62b97c247d0d927a7742)进行安装**
 - **因为我之前网卡换成了BCM94350ZAE 1820A,安装时发现直接可以驱动**
 
 
